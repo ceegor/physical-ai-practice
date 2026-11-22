@@ -1,0 +1,6 @@
+﻿experiment,max_iters,train_mean_reward,successes_of_10,training_seconds,eval_mean_reward_default_scales
+baseline_1024,1001,699.77,0,2323,701.44
+max_iters_500,500,610.48,0,1297,680.29
+box_target_strong,1001,734.72,0,2463,466.66
+qpos_strong,1001,4523.88,0,2095,106.82
+gripper_box_2,1001,938.18,10,2380,1302.12

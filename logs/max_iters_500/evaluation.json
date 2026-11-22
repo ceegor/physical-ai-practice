@@ -1,0 +1,9 @@
+{
+  "episodes": 10,
+  "successes": 0,
+  "grasps": 0,
+  "mean_reward": 680.29,
+  "seed": 42,
+  "reward_scales": "default",
+  "source": "Результат терминала, предоставленный пользователем; не повторный запуск"
+}
